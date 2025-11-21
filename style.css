@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    
+    background-image: url("assets/images/bg.jpg");
+    background-position: center center;
+    height: vh;
+    width: 100vw;
+   
+
+}
+.main .box{
+    height: 100vh;
+    width: 100%;
+    opacity: 0.44;
+     
+    top: 0;
+    background-color: black;
+   
+
+
+
+
+}
