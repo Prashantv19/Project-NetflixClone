@@ -100,11 +100,19 @@ nav button {
     font-size: 20px;
     border-radius: 4px;
 }
+.hero-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
 .main input{
-    padding: 3px 24px;
-    font-size: 7px;
+    padding: 7px 100px 8px 14px;
+    font-weight: 900;
+    font-size: 12px;
     border-radius: 4px;
-    background-color: rgba(23, 23,23,0.2);
+    background-color: rgba(23, 23,23,0.7);
+    border-color: rgba(236, 217, 217, 0.5);
 }
 .btn-red-sn{
         background-color: red;
